@@ -1,4 +1,5 @@
 Run Program: https://youtu.be/-Ae84FQBAmE
+Kursus Android Studio Java & Kotlin: https://www.superprof.co.id/ahwaj-kafabi-providing-android-training-courses-which-have-been-developed-directly-with-google-using-the-official-google.html
 # Aplikasi_Wisata_Batik_Pekalongan
 ![activity programPNG](https://user-images.githubusercontent.com/69799720/129021923-0f4ecbec-6467-4744-88e8-81d304c23806.PNG)
 ![drawable_gambar](https://user-images.githubusercontent.com/69799720/129021949-c9ed04ec-6524-41a5-9fe9-0d6e7377394a.PNG)
