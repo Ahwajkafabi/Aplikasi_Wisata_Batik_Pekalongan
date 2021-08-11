@@ -1,3 +1,4 @@
+Run Program: https://youtu.be/-Ae84FQBAmE
 # Aplikasi_Wisata_Batik_Pekalongan
 ![activity programPNG](https://user-images.githubusercontent.com/69799720/129021923-0f4ecbec-6467-4744-88e8-81d304c23806.PNG)
 ![drawable_gambar](https://user-images.githubusercontent.com/69799720/129021949-c9ed04ec-6524-41a5-9fe9-0d6e7377394a.PNG)
@@ -18,5 +19,3 @@ DATABASE LOCALHOST WEBHOST:
 
 Struktur database localhost : ![db_apibatik_locallhost_webhost](https://user-images.githubusercontent.com/69799720/129023490-c5416151-1aab-4c3b-8ca5-29beb1ad12fb.PNG)
 File PHP Webhost : ![db_apibatik_Webhost_FilePHP](https://user-images.githubusercontent.com/69799720/129023615-245abadc-7926-4c1e-b345-545cf10f5184.PNG)
-
-Run Program: https://youtu.be/-Ae84FQBAmE
